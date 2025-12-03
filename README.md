@@ -1,2 +1,2 @@
-# LiteraturePortfolio
-My *extra* Literature materials, idk what im doing. please star
+# etc
+> mostly for my study (please star)
